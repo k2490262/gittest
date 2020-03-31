@@ -4,6 +4,7 @@ public class MemberDao {
 	
 	public void listMember() {
 		System.out.println("listMember, 회원정보를 수정하였습니다.");
+		
 	}
 	
 	public void insertMember() {		
