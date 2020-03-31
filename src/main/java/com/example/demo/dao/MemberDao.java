@@ -2,11 +2,10 @@ package com.example.demo.dao;
 
 public class MemberDao {
 	
-	public String insertMember() {
+	public void insertMember() {
 		
-			System.out.println("insertMember 작동중");
+		System.out.println("회원을 등록하였습니다.");
 			
-		return "ok";
 	}
 
 }
