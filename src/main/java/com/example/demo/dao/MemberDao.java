@@ -4,7 +4,8 @@ package com.example.demo.dao;
 public class MemberDao {
 	
 	public void login() {
-		System.out.println("로그인하였습니다");
+
+		System.out.println("로그인했고요!");
 	}
 	
 	public void listMember() {
